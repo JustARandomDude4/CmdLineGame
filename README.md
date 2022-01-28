@@ -11,13 +11,6 @@ This is just a simple command line game made for fun.
 </p>
 
 
-## 🔗Share your Game with the world via npx🧙🏽‍♀️🤹🏽‍♀️
-* > Go to [<b>npm.js Website</b>](https://www.npmjs.com/) and make an account.
-<p align="center">
-  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/login.PNG" width="300" title="Final Results">
-</p>
-
-
 ## 🔗Modules Used🛒:
 1. chalk 
 2. chalk-animation
@@ -63,6 +56,12 @@ npm i chalk chalk-animation figlet gradient-string inquirer nanospinner         
 >  Figlet-
 >>  Figlet formats a message and send it to figlet, which is a popular  js implementation of a prg of c language.
 >> It creates ASCII art for text.
+
+## 🔗Share your Game with the world via npx🧙🏽‍♀️🤹🏽‍♀️
+* > Go to [<b>npm.js Website</b>](https://www.npmjs.com/) and make an account.
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/login.PNG" width="300" title="Final Results">
+</p>
 
  >  Go to your package.json and add an entry for bin
   '''
