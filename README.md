@@ -5,6 +5,19 @@ This is just a simple command line game made for fun.
 >  The characters in the game are purely real. Nothing is imaginary. 
 > The creator is not responsible for any possible hurt feelings. Please take a humor pill.
 
+## 🔗Final Result Video ✨✨✨💁‍♀️
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/v.gif" width="1000" title="Final Results">
+</p>
+
+
+## 🔗Share your Game with the world via npx🧙🏽‍♀️🤹🏽‍♀️
+* > Go to [<b>npm.js Website</b>](https://www.npmjs.com/) and make an account.
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/login.PNG" width="300" title="Final Results">
+</p>
+
+
 ## 🔗Modules Used🛒:
 1. chalk 
 2. chalk-animation
@@ -51,17 +64,6 @@ npm i chalk chalk-animation figlet gradient-string inquirer nanospinner         
 >>  Figlet formats a message and send it to figlet, which is a popular  js implementation of a prg of c language.
 >> It creates ASCII art for text.
 
-## 🔗Final Result ✨✨✨💁‍♀️
-<p align="center">
-  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/v.gif" width="1000" title="Final Results">
-</p>
-
-
-## 🔗Share your Game with the world via npx🧙🏽‍♀️🤹🏽‍♀️
-* > Go to [<b>npm.js Website</b>](https://www.npmjs.com/) and make an account.
-<p align="center">
-  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/login.PNG" width="300" title="Final Results">
-</p>
  >  Go to your package.json and add an entry for bin
   '''
    "bin" : "/.index.js",
