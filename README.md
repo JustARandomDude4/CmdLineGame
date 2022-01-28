@@ -33,13 +33,13 @@ mkdir JardCmdGame
 npm init -y                                                                        -creates a json file to install the dependencies
 npm i chalk chalk-animation figlet gradient-string inquirer nanospinner            -installing the dependencies
 ```
-* Open the folder in VsCode/anyother editor
-* 
+* Open the folder in VsCode/anyother editor.
 * Now Inside the json file, change the type to "module". 
   This will tell nodejs that we wanna use ESM Modules whichallows us to use the "import export" syntax instead of the commonjs "require" function.
   
 * Now create a index.js file and add the below as the first line.
-  >> ``` #!/usr/bin/env node ```
+  > ``` #!/usr/bin/env node ```
+ 
   > Its called a SHEBANG #!. 
   > This should always be added when writing a commandline script. It tells the OS to execute the code with the node.js version installed on the user's local system.
  
