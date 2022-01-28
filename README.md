@@ -1,4 +1,4 @@
-# Satwi's Command Line game 
+# Satwi's Command Line game ⚡⚡
 
 This is just a simple command line game made for fun. 
 > Note:
@@ -60,7 +60,7 @@ npm i chalk chalk-animation figlet gradient-string inquirer nanospinner         
 ## 🔗Share your Game with the world via npx🧙🏽‍♀️🤹🏽‍♀️
 * > Go to [<b>npm.js Website</b>](https://www.npmjs.com/) and make an account.
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/login.PNG" width="1000" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/login.PNG" width="300" title="Final Results">
 </p>
  >  Go to your package.json and add an entry for bin
   '''
