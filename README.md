@@ -37,7 +37,7 @@ npm i chalk chalk-animation figlet gradient-string inquirer nanospinner         
 
 * Now let's test chalk-animation thats built on top of chalk that creates rainbow animations for us.
   <p align="center">
-  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/p2.PNG" width="300" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/p2.PNG" width="1000" title="Final Results">
 </p>
 
 *  inquirer.js -   it defines various different ways of collecting user Input.
@@ -52,14 +52,15 @@ npm i chalk chalk-animation figlet gradient-string inquirer nanospinner         
 >> It creates ASCII art for text.
 
 ## 🔗Final Result ✨✨✨💁‍♀️
-<p 
-  "https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/video.mp4"
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/v.gif" width="1000" title="Final Results">
 </p>
+
 
 ## 🔗Share your Game with the world via npx🧙🏽‍♀️🤹🏽‍♀️
 * > Go to [<b>npm.js Website</b>](https://www.npmjs.com/) and make an account.
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/login.PNG" width="300" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/login.PNG" width="1000" title="Final Results">
 </p>
  >  Go to your package.json and add an entry for bin
   '''
@@ -71,7 +72,7 @@ npm i chalk chalk-animation figlet gradient-string inquirer nanospinner         
   npm publish
   ```
   <p align="center">
-  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/npmpublish.PNG" width="300" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/npmpublish.PNG" width="1000" title="Final Results">
 </p>
 
   ```
