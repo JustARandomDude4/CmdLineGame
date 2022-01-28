@@ -53,7 +53,7 @@ npm i chalk chalk-animation figlet gradient-string inquirer nanospinner         
 
 ## 🔗Final Result ✨✨✨💁‍♀️
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/video.PNG" width="300" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/CmdLineGame/blob/master/ScreenShots/video.mp4" width="300" title="Final Results">
 </p>
 
 ## 🔗Share your Game with the world via npx🧙🏽‍♀️🤹🏽‍♀️
